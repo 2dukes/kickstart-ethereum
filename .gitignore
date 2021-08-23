@@ -1,0 +1,5 @@
+routes.js
+server.js
+.env
+node_modules/
+.next
