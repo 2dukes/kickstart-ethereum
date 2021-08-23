@@ -39,8 +39,25 @@ $ npm run dev
 # Steps
 
 - Compile and deploy the contract on the Ethereum Network;
-- Add a .env to the project's root folder and add the following environment variables:
+- Add a `.env` file to the project's root folder and add the following environment variables:
   - `CAMPAIGN_FACTORY_ADDR` - Campaign Factory address obtained from the deploy step.
   - `TWELVE_WORD_PASS` - Mnemonic phrase of your wallet.
   - `INFURA_URL` - Ethereum Network Infura API URL.
 - Run the development server.
+
+# Pages
+
+## Campaigns List
+![campaignsList](docs/images/campaignsList.png)
+
+## Create Campaign
+![createCampaign](docs/images/createCampaign.png)
+
+## Campaign Details
+![campaignDetails](docs/images/campaignDetails.png)
+
+## Requests List
+![requestsList](docs/images/requestsList.png)
+
+## New Request
+![newRequest](docs/images/newRequest.png)
