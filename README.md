@@ -1,6 +1,6 @@
 # kickstart-ethereum
 
-Website running under the Ethereum Network inspired in the [Kickstarter](https://www.kickstarter.com/?ref=nav) crowdfunding platform.
+DApp running under the Ethereum Network inspired in the [Kickstarter](https://www.kickstarter.com/?ref=nav) crowdfunding platform.
 
 # Commands
 
